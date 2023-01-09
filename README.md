@@ -4,4 +4,4 @@ This repository just was created to conclued a module of Fronted in [EBAC Course
 
 ✨ Take a look at how it turned out ✨
 
-![workspace](/imagens/workspaces.png)
+![workspace](/imagens/workspace.png)
