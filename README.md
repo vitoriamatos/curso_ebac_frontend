@@ -2,11 +2,6 @@
 
 This repository just was created to conclued a module of Fronted in [EBAC Course](https://ebaconline.com.br/front-end-profession).
 
+ 🌟 Take a look at how it turned out 🌟
 
-You can browse the branches to check the projects proposed during the course:
-
-* [exercicio_html](https://github.com/vitoriamatos/curso_ebac_frontend/tree/exerc%C3%ACcio_html)
-* [exercicio_css](https://github.com/vitoriamatos/curso_ebac_frontend/tree/exercicio_css)
-* [exercicio_git](https://github.com/vitoriamatos/curso_ebac_frontend/tree/exercicio_git)
-* [projeto_1](https://github.com/vitoriamatos/curso_ebac_frontend/tree/projeto_1)
-* [exercicio_html_js](https://github.com/vitoriamatos/curso_ebac_frontend/tree/exercicio_html_js)
+![Workspace](./Workspace.png)
