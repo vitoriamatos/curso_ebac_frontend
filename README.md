@@ -7,6 +7,6 @@ In this module it was propoused to convert and refactor the css code in SASS sta
 
 ## Installation
 
-run the following command in the root of the application
+run this command in the root of the application
 
 ``` npm run sass ```
