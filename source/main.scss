@@ -28,9 +28,8 @@ header {
         align-items: center;
         padding: 16px 0;
     }
-    
-}
 
+}
 
 .menu {
     display: flex;
@@ -39,7 +38,7 @@ header {
         font-weight: bold;
         margin-left: 24px;
     }
-    
+
     li a {
         color: #fff;
         text-decoration: none;
@@ -47,29 +46,12 @@ header {
 
 }
 
-
 section {
     padding: 56px 0;
 }
-
 
 @media screen and (max-width: 1023px) {
     .container {
         max-width: 80%;
     }
-
-    // .products {
-    //     grid-template-columns: repeat(2, 48.5%);
-    //     column-gap: 3%;
-    // }
 }
-
-// @media screen and (max-width: 767px) {
-//     .products {
-//         display: block;
-//     }
-
-//     .product-item  {
-//         margin-bottom: 32px;
-//     }
-// }
