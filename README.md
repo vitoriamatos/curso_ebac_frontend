@@ -3,15 +3,12 @@
 This repository just was created to conclued a module of Fronted in [EBAC Course](https://ebaconline.com.br/front-end-profession).
 
 
-In this module it was propoused implements some resources using `less`:
+In this module it was propoused implements some resources using `grunt`:
 
-* Variables
+* Compress less
 
-* File division
+* Compress JS
 
-* Escapings
-
-* Maps
 
 ## Installation
 
@@ -21,7 +18,13 @@ you need install dependecies, to do that run this command in the root of the app
 npm install
 ```
 
-then run this command to compile gulp
+then run this command to compile grunt for watch
 ``` 
-npm run less
+npm run grunt
+```
+
+
+run this command for build grunt
+``` 
+npm run grunt build
 ```
