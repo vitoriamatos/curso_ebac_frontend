@@ -1,0 +1,24 @@
+{
+  "name": "curso_ebac_frontend",
+  "version": "1.0.0",
+  "description": "This repository just was created to conclued a module of Fronted in [EBAC Course](https://ebaconline.com.br/front-end-profession).",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass ./bem/main.scss ./bem/main.css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitoriamatos/curso_ebac_frontend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vitoriamatos/curso_ebac_frontend/issues"
+  },
+  "homepage": "https://github.com/vitoriamatos/curso_ebac_frontend#readme",
+  "devDependencies": {
+    "sass": "^1.58.3"
+  }
+}
